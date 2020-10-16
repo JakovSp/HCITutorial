@@ -1,7 +1,6 @@
 import React from 'react'
 import styles from './style.module.css'
-import { navs as navTabs } from '../../constants/const'
-import NavigationBar from '../NavigationBar'
+import NavigationBar from '../../components/NavigationBar'
 
 const Footer = () => (
   <footer className={styles.footer}>
