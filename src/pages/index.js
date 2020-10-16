@@ -5,7 +5,8 @@ import NavigationHeader from '../components/NavigationHeader'
 
 const IndexPage = () => (
   <main>
-    <ContactBar />
+   <ContactBar />
+   <NavigationHeader />
   </main>
 )
 
