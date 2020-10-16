@@ -6,7 +6,7 @@ import Footer from '../components/Footer'
 
 const IndexPage = () => (
   <main>
-   <NavigationHeader activeTab = "Home"/>
+   <NavigationHeader activeTab = "Home" />
    <Footer />
   </main>
 )

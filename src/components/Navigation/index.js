@@ -6,7 +6,7 @@ import styles from './style.module.css'
 
 const Navigation = ({ activeTab }) => (
   <section className={styles.navigation}  >
-      <NavigationBar activeTab={activeTab} />
+      <NavigationBar activeTab={activeTab} useThisStyle="footer"/>
       <Combobox />
   </section>
 )
