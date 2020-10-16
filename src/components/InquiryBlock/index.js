@@ -1,6 +1,6 @@
 import React from 'react'
  
-import styles from './styles.module.css'
+import styles from './style.module.css'
  
 const TitleImage = () => (
     <section className={styles.titleImage}>
